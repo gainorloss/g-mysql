@@ -1,0 +1,26 @@
+{
+  "name": "g-mysql",
+  "version": "1.0.0",
+  "description": "nodejs mysql",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gainorloss/g-mysql.git"
+  },
+  "keywords": [
+    "nodejs",
+    "mysql"
+  ],
+  "author": "gainorloss",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gainorloss/g-mysql/issues"
+  },
+  "homepage": "https://github.com/gainorloss/g-mysql#readme",
+  "dependencies": {
+    "mysql": "^2.17.1"
+  }
+}
