@@ -1,3 +1,8 @@
+/**
+ * g-mysql.js: mysql helper
+ *    creator: gainorloss
+ * createTime: 2019-07-29
+ */
 const mysql = require('mysql');
 
 let conf = null;
