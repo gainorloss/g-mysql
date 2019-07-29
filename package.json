@@ -2,7 +2,7 @@
   "name": "g-mysql",
   "version": "1.0.0",
   "description": "nodejs mysql",
-  "main": "app.js",
+  "main": "g-mysql.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
